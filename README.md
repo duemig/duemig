@@ -15,6 +15,6 @@ Director, Head of Equity Selection at Ultramarin. MSc Finance, Frankfurt School 
 | [next-day-market-direction-case-study](https://github.com/duemig/next-day-market-direction-case-study) | Logistic regression and random forests for next-day market direction from 27 anonymised indicators | Take-home case study for Union Investment, presented at the interview |
 | [consumer-spend-signal](https://github.com/duemig/consumer-spend-signal) | Credit card spending as an equity signal: a point-in-time research pipeline and simulation study, with tests and CI | Take-home assignment for Man Group, presented at the interview; rebuilt on simulated data |
 
-Most of my professional work is proprietary and not public.
+My professional work is proprietary and not public.
 
 [LinkedIn](https://www.linkedin.com/in/duemig)
